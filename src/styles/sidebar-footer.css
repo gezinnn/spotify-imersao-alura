@@ -1,5 +1,6 @@
 body {
   background-color: #000;
+  font-family: var(--font-dm-sans);
 }
 
 .sidebar {
@@ -42,7 +43,6 @@ body {
   text-decoration: none;
   font-weight: 600;
   font-size: 14px;
-  font-family: "DM Sans", sans-serif;
 }
 
 .library {
@@ -71,7 +71,6 @@ body {
   border: 0px;
   font-size: 14px;
   font-weight: 700;
-  font-family: "Dm Sans", sans-serif;
   text-align: center;
   text-decoration: none;
   text-transform: none;
@@ -101,7 +100,6 @@ body {
   font-size: 14px;
   margin: 8px 0px;
   padding: 16px 20px;
-  font-family: "Dm Sans", sans-serif;
   border-radius: 10px;
 }
 
@@ -132,7 +130,6 @@ body {
   border-radius: 15px;
   font-size: 12px;
   font-weight: 700;
-  font-family: "Dm Sans", sans-serif;
   text-decoration: none;
   text-transform: none;
   padding: 10px;
@@ -150,7 +147,6 @@ body {
   font-weight: 500;
   font-size: 500;
   text-decoration: none;
-  font-family: "Dm Sans", sans-serif;
 }
 
 .sidebar .cookies a:hover {
@@ -161,14 +157,13 @@ body {
   background-color: transparent;
   border: 1px solid #878787;
   color: #fff;
-  font-weight: bold-;
+  font-weight: bold;
   cursor: pointer;
   align-items: center;
   width: 170px;
   margin: 8px;
   padding: 8px;
   border-radius: 15px;
-  font-family: "Dm Sans", sans-serif;
 }
 
 .footer {
@@ -180,7 +175,6 @@ body {
   bottom: 0;
   background-image: linear-gradient(90deg, #af2896, #509bf5);
   padding: 15px 40px;
-  font-family: "Dm Sans", sans-serif;
 
 }
 
